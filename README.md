@@ -1,9 +1,11 @@
 # competitions
+
 Information and Resources for IHS CS Club's Competitions Branch
 
 [Link to IHS Slides] (https://drive.google.com/drive/folders/1Ka2Hcqmek8eC-Xsws-dY97bGdCgdcIOq)
 
 ## Interschool Contest Slides
+
 1. Contest #2
     * [Intro/Div0 Primes] (https://docs.google.com/presentation/d/17P-JGa_3K3z-EYyfsgQqH2fRBm-CWMq1bV_-NzaqjDo/edit?usp=sharing)
     * [Intro/Div0 Politicat] (https://docs.google.com/presentation/d/1g1UMlx3vsNTvQMb_oV1IBr6ljfXbJzCAZltWfwrfIbo/edit?usp=sharing)
